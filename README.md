@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @VocaDev
-- 👀 I’m interested in Programming, Computer Games and IT stuff!
-- 🌱 I’m currently learning Computer Engineering at UIBM(Universiteti "Isa Boletini" Mitrovice) in Kosovo, Mitrovica:)
-- 📫 How to reach me Email: gentianvoca@gmail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Pretty talkative and easy going!
+# 👋 Hi, I’m Gentian (VocaDev)
+
+- 💻 I’m interested in **Programming, Computer Games, and IT**  
+- 🎓 Currently pursuing a **Bachelor’s in Computer Science and Engineering** at **Universiteti "Isa Boletini" Mitrovicë (UIBM)**  
+- 🌱 Learning and building projects with **HTML, CSS, JavaScript, and React**  
+- 📫 Reach me at: **gentianvoca@gmail.com**  
+- ⚡ Fun fact: I’m pretty talkative, easy-going, and always curious to learn new things!  
+
+---
+
+## 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" />
+</p>
+
+---
+
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/gentian-voca-578943322/)  
+- [GitHub](https://github.com/VocaDev)  
 
 <!---
 VocaDev/VocaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
