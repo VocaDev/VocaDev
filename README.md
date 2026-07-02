@@ -39,7 +39,7 @@ Website-as-a-Service for Kosovar SMBs. Each business gets its own subdomain, mob
 
 `Next.js 14` `TypeScript` `Tailwind` `shadcn/ui` `Supabase` `Vercel`
 
-### Internal Software Tools · Petrol Company *(confidential)*
+### Internal Software Tools · Petrol Company 
 Full-stack web apps used daily by leadership, HQ teams, and field managers across 30 retail stations. Business-process analysis paired with hands-on engineering.
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL`
