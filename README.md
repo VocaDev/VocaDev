@@ -14,11 +14,17 @@ Building things people actually use. From internal tools for a national fuel dis
 
 Third-year **Computer Science & Engineering** student at the **University of Mitrovica "Isa Boletini" (UMIB)**. GPA **9.20 / 10**.
 
-Full-time **Software Development & Digitalisation Intern** at **Petrol Company**, a national fuel distributor in Kosovo, where I build internal software tools used daily by leadership, HQ teams, and field managers across 30 retail stations. Replacing legacy manual workflows (spreadsheets and chat-based coordination) with structured digital systems running in production.
+Full-time **Software Development & Digitalisation Assistant** at **Petrol Company**, a national fuel distributor in Kosovo, where I build internal software tools used daily by leadership, HQ teams, and field managers across 30 retail stations. Replacing legacy manual workflows (spreadsheets and chat-based coordination) with structured digital systems running in production.
 
 On the side, I'm building **[LokalWeb](https://gentianvoca.vercel.app)**, a multi-tenant Website-as-a-Service platform for Kosovar small businesses like barbershops, restaurants, and clinics.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEdv3BH536bjaPwl2/giphy.gif" width="750">
+</p>
+
+
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -53,12 +59,6 @@ Professional booking site for a working Prishtinë barbershop. Live in productio
 React frontend on Vercel, Node.js backend on Render. Debugged and resolved production CORS between the two hosting platforms.
 
 `React` `Node.js` `Vercel` `Render`
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEdv3BH536bjaPwl2/giphy.gif" width="750">
-</p>
 
 ---
 
