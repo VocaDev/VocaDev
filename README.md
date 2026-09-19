@@ -8,10 +8,6 @@ Building things people actually use. From internal tools for a national fuel dis
 
 **[🌐 Portfolio](https://gentianvoca.vercel.app)** · **[💼 LinkedIn](https://www.linkedin.com/in/gentian-voca-578943322/)** · **[📧 Email](mailto:gentianvoca@gmail.com)**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEdv3BH536bjaPwl2/giphy.gif" width="750">
-</p>
-
 ---
 
 ## About
@@ -57,6 +53,12 @@ Professional booking site for a working Prishtinë barbershop. Live in productio
 React frontend on Vercel, Node.js backend on Render. Debugged and resolved production CORS between the two hosting platforms.
 
 `React` `Node.js` `Vercel` `Render`
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEdv3BH536bjaPwl2/giphy.gif" width="750">
+</p>
 
 ---
 
