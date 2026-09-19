@@ -76,7 +76,7 @@ React frontend on Vercel, Node.js backend on Render. Debugged and resolved produ
 
 ## 🌍 Languages
 
-🇦🇱 **Shqip** (native) · 🇬🇧 **English** (Cambridge C1, Excellent) · 🇫🇷 **French** (learning)
+🇦🇱 **Shqip** (native) · 🇬🇧 **English** (Cambridge C1, Excellent)
 
 ---
 
