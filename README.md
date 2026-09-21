@@ -32,7 +32,7 @@ On the side I build websites for clients (first paying client: **[kontinuum.biz]
 
 **Backend & Data** · `Supabase` `PostgreSQL` `Node.js` `REST APIs` `Pandas` `NumPy` `Scikit-learn`
 
-**Tools & Workflow** · `Git` `GitHub` `GitHub Actions` `Vercel` `Render` `Netlify` `Vite` `npm` `Claude Code`
+**Tools & Workflow** · `Git` `GitHub` `Vercel` `Render` `Netlify` `Vite` `npm` `Claude Code`
 
 ---
 
